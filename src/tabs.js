@@ -26,7 +26,7 @@ const tabManager = () => {
         const menulist = document.querySelector("#menulist");
         const homepage = document.querySelector("#homepage");
         const footer = document.querySelector("#footer");
-         const imgGallery = document.querySelector("#imgGallery-container");
+        const imgGallery = document.querySelector("#imgGallery-container");
         
         homepage.style.display = "block";
         menulist.style.display = "block";
