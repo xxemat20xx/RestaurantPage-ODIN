@@ -2,17 +2,17 @@
 import "../node_modules/@fortawesome/fontawesome-free/css/all.css";
 import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
 // pastries
-import fScroll from "../img/fscroll-img.jpg";
-import pastryOne from "../img/pastry1.png";
-import pastryTwo from "../img/pastry2.png";
-import pastryThree from "../img/pastry3.png";
+import fScroll from "./img/fscroll-img.jpg";
+import pastryOne from "./img/pastry1.png";
+import pastryTwo from "./img/pastry2.png";
+import pastryThree from "./img/pastry3.png";
 // coffee
-import coffee1 from "../img/1.png"
-import coffee2 from "../img/2.png"
-import coffee3 from "../img/3.png"
-import coffee4 from "../img/4.png"
-import coffee5 from "../img/5.png"
-import coffee6 from "../img/6.png"
+import coffee1 from "./img/1.png"
+import coffee2 from "./img/2.png"
+import coffee3 from "./img/3.png"
+import coffee4 from "./img/4.png"
+import coffee5 from "./img/5.png"
+import coffee6 from "./img/6.png"
 
 export const pastryList = [
     {
