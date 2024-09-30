@@ -1,5 +1,5 @@
 
-import img from './img/inarawan-logo.png'
+import img from '../src/img/inarawan-logo.png'
 const tabManager = () => {
     // test
     const div = document.createElement("div");
